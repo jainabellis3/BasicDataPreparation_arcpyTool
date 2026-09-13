@@ -39,7 +39,8 @@ This is the boundary that the datasets will be clipped to.
 
 **Note:** Selecting features to clip by using the sql expression dialouge box is optional. An example sql expression is provided:
 
-<img width="596" height="146" alt="SQL_Example_Image" src="https://github.com/user-attachments/assets/4da70f75-1e4f-49d9-8a6f-168aecbf2f97" />
+<img width="596" height="146" alt="SQL_Example_Image" src="https://github.com/user-attachments/assets/1b465d17-3e32-4e7e-b586-1825141d339f" />
+
 
 
 
